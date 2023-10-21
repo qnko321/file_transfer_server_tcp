@@ -1,0 +1,4 @@
+[2023-08-28 01:01:01 INFO file_transfer_client_tcp] Received a file successfully.
+[2023-08-28 01:01:01 INFO file_transfer_client_tcp] Received a file successfully.
+[2023-08-28 01:01:01 INFO file_transfer_client_tcp] Received a file successfully.
+[2023-08-28 01:10:46 ERROR file_transfer_client_tcp] Error reading from server: An existing connection was forcibly closed by the remote host. (os error 10054)
